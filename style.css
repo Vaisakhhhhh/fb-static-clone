@@ -1,0 +1,243 @@
+.main-body{
+    width: 100%;
+    height: 895px;
+    
+    
+}
+body{
+    margin: 0;
+}
+.content{
+    width: 100%;
+    height: 650px;
+    background: #F0F2F5;
+    padding-top: 70px;
+    
+}
+.footer{
+    width: 100%;
+    height: 154px;
+    background:#FFFFFF;
+    padding-top: 1px;
+}
+.content-body{
+    width: 980px;
+    height: 515px;
+    background: #F0F2F5;
+    margin-left: 269px;
+    padding-top: 20px;
+    
+    
+}.left-section{
+    width: 580px;
+    height: 267px;
+    background: #F0F2F5;
+    float: left;
+    
+}
+.right-section{
+    width: 395px;
+    height: 450px;
+    background: #F0F2F5;
+    float: left;
+    padding-top: 40px;
+}
+.logo{
+    width: 549px;
+    height: 182px;
+    
+}
+.para{
+    width: 500px;
+    height: 85px;
+    
+    margin-top:-23px;
+}
+.login-page{
+width: 395px;
+height: 330px;
+background: #FFFFFF;
+padding-top: 10px;
+border: 2px;
+border-radius: 7px;
+box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1),
+            0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.login-page2{
+    width: 395px;
+    height: 18px;
+    
+    margin-top: 27px;
+}
+.box1{
+    height: 130px;
+    background: #FFFFFF;
+    
+}
+.box2{
+    height: 53px;
+    background:#FFFFFF;
+}
+.box3{
+    height: 19px;
+    background: #FFFFFF;
+    margin-top: 15px;
+}
+.box4{
+    height: 1px;
+    width: 355px;
+    background: gainsboro;
+    margin-top: 17px;
+    margin-left: 20px;
+}
+.box5{
+    height: 53px;
+    background: #FFFFFF;
+    margin-top: 20px;
+}
+.footer-body{
+    width: 980px;
+    height: 137px;
+    background: #FFFFFF;
+    margin-left: 269px;
+    margin-top: 16px;
+    
+    
+}
+.fbox1{
+    height: 27px;
+    background: #FFFFFF;
+    padding-top: 1px;
+    
+}
+.fbox1 p{
+    font-family:  Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    margin-top: 7px;
+    float: left;
+    color: gray;
+    
+
+}
+.fbox1 button{
+    width: 30px;
+    height: 19px;
+    margin-top: 7px;
+    background: #EBEDF0;
+    border: 1px solid gainsboro;
+    
+    
+}
+.fbox1 button p{
+    font-size: 22px;
+    margin-top: -5px;
+}
+.fbox2{
+    height: 1px;
+    background: gainsboro;
+    margin-top: 8px;
+}
+.fbox3{
+    height: 58px;
+    background: #FFFFFF;
+    margin-top: -5px;
+}
+.fbox3 p{
+    font-family:Helvetica, Arial, sans-serif; 
+    font-size: 12px;
+    line-height: 20px;
+    
+    
+    color:gray ;
+}
+.fbox4{
+    height: 15px;
+    background: #FFFFFF;
+    margin-top: 18px;
+}
+.fbox4 p{
+    font-family:Helvetica, Arial, sans-serif; 
+    font-size: 13px;
+    color: gray;
+}
+.image{
+    width: 320px;
+    margin-left: -27px;
+    margin-top: 86px;
+}
+.pstyle{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+}
+.email{
+    width: 365px;
+    height: 65px;
+    background: #FFFFFF;
+    margin-left: 15px;
+}
+.password{
+    width: 365px;
+    height: 65px;
+    background: #FFFFFF;
+    margin-left: 15px;
+
+}
+.e-style{
+    width: 343px;
+    height: 50px;
+    margin-top: 6px;
+    border: 2px solid gainsboro;
+    border-radius: 7px;
+    font-size: 16px;
+    padding-left: 20px;
+}
+.p-style{
+    width: 343px;
+    height: 50px;
+    margin-top: 6px;
+    border: 2px solid gainsboro;
+    border-radius: 7px;
+    font-size: 16px;
+    padding-left: 20px;
+
+}
+.l-style{
+    width: 364px;
+    height: 47px;
+    margin-top: 5px;
+    margin-left: 15px;
+    border: 2px;
+    border-radius: 7px;
+    font-size: 20px ;
+    font-weight: bold;
+    background: #1877F2;
+    color: #FFFFFF;
+
+}
+#fp{
+    color:#0866FF;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif; 
+    margin-left: 130px;
+}
+.c-style{
+    width: 194px;
+    height: 49px;
+    background: #36A420;
+    border: 2px;
+    border-radius: 7px;
+    margin-top: 4px;
+    margin-left: 100px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+
+}
+.lpc-style{
+    color: #1C1E21;
+    font-family:SFProDisplay-Regular, Helvetica, Arial, sans-serif; 
+    font-size:14px ;
+    margin-left: 50px;
+}
